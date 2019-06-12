@@ -1,0 +1,6 @@
+C:\OOP\Project\NBCCCardGameStarter\NBCC.CardGame\NBCC.CardGame\bin\Debug\NBCC.CardGame.dll
+C:\OOP\Project\NBCCCardGameStarter\NBCC.CardGame\NBCC.CardGame\bin\Debug\NBCC.CardGame.pdb
+C:\OOP\Project\NBCCCardGameStarter\NBCC.CardGame\NBCC.CardGame\obj\Debug\NBCC.CardGame.csprojAssemblyReference.cache
+C:\OOP\Project\NBCCCardGameStarter\NBCC.CardGame\NBCC.CardGame\obj\Debug\NBCC.CardGame.csproj.CoreCompileInputs.cache
+C:\OOP\Project\NBCCCardGameStarter\NBCC.CardGame\NBCC.CardGame\obj\Debug\NBCC.CardGame.dll
+C:\OOP\Project\NBCCCardGameStarter\NBCC.CardGame\NBCC.CardGame\obj\Debug\NBCC.CardGame.pdb
